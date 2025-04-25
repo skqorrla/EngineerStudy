@@ -1,0 +1,15 @@
+# requirements.txt
+
+# data processing
+pandas
+requests
+
+# DB
+sqlalchemy
+psycopg2
+
+# Air-flow
+apache-airflow
+
+# AWS S3 Client
+boto3
